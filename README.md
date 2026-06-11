@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul Sharma
 
-<!--
-**rahulboat55-git/rahulboat55-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 BCA Graduate
+- 🐍 Learning Python
+- 📊 Learning Data Science
+- 📈 Interested in Stock Market & Trading
+- 💻 Building Projects on GitHub
 
-Here are some ideas to get you started:
+## 🛠️ Skills I'm Learning
+- Python
+- Pandas
+- NumPy
+- Data Visualization
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Goals
+- Complete Python from Beginner to Advanced
+- Learn Data Science
+- Build Real-World Projects
+- Create a Strong Portfolio
+
+## 📫 Connect With Me
+- GitHub: @rahulboat55-git
+
+⭐ Thanks for visiting my profile!
